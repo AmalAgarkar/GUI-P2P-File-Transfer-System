@@ -1,0 +1,26 @@
+# ninja log v5
+26	946	1780860605836009668	CMakeFiles/p2p_client.dir/client/PeerServer.cpp.o	6eeb2f503b53f0b
+240	1164	1780860511592683243	CMakeFiles/p2p_tracker.dir/p2p_tracker_autogen/mocs_compilation.cpp.o	f05f1d0217326cb3
+26	1708	1780860606596470510	CMakeFiles/p2p_client.dir/client/MainWindow.cpp.o	2c25471d3daf7cc1
+248	1445	1780860390808064944	CMakeFiles/p2p_client.dir/shared/crypto.cpp.o	f66e63d3a96aac2f
+5	28	1780860689409394595	/home/amal/P2Pgui/build/p2p_client_autogen/timestamp	ee2739310cf48f02
+249	1432	1780860390793175914	CMakeFiles/p2p_client.dir/client/TrackerSocket.cpp.o	efe80e32d14bf28f
+5	27	1780860689409394595	/home/amal/P2Pgui/build/p2p_tracker_autogen/timestamp	142e00727ab3526f
+240	737	1780860511165688629	CMakeFiles/p2p_tracker.dir/shared/protocol.cpp.o	cf97dd08178f2db6
+5	27	1780860689409394595	p2p_tracker_autogen/timestamp	142e00727ab3526f
+145	992	1780860670138646212	CMakeFiles/p2p_client.dir/p2p_client_autogen/mocs_compilation.cpp.o	ea40c5e0efb40a4
+240	1016	1780860511444685110	CMakeFiles/p2p_tracker.dir/tracker/main.cpp.o	c371d3cb21806c9c
+992	1268	1780860670410738953	p2p_client	65c95a55462c497f
+240	2336	1780860512763668471	CMakeFiles/p2p_tracker.dir/tracker/TrackerBackend.cpp.o	ed5738bc3b3524c2
+249	2211	1780860391572166521	CMakeFiles/p2p_client.dir/client/TransferManager.cpp.o	f0ec2799f96292a2
+5	28	1780860689409394595	p2p_client_autogen/mocs_compilation.cpp	ee2739310cf48f02
+2	311	1780860560943587829	p2p_tracker	b8e6f4f24e0f994a
+5	27	1780860689409394595	p2p_tracker_autogen/mocs_compilation.cpp	142e00727ab3526f
+5	28	1780860689409394595	p2p_client_autogen/timestamp	ee2739310cf48f02
+248	987	1780860390349108288	CMakeFiles/p2p_client.dir/shared/protocol.cpp.o	3e5472cab6a91c33
+5	28	1780860689409394595	/home/amal/P2Pgui/build/p2p_client_autogen/mocs_compilation.cpp	ee2739310cf48f02
+240	985	1780860511413685501	CMakeFiles/p2p_tracker.dir/shared/crypto.cpp.o	77ac0b6c9ec03ba7
+248	1502	1780860390863313641	CMakeFiles/p2p_client.dir/client/LoginDialog.cpp.o	4483076f04e9c92c
+248	1401	1780860390762176288	CMakeFiles/p2p_client.dir/client/main.cpp.o	db49d0cf4ce0bb78
+240	1600	1780860512027677757	CMakeFiles/p2p_tracker.dir/tracker/TrackerWindow.cpp.o	c33a9186ec769b68
+5	27	1780860689409394595	/home/amal/P2Pgui/build/p2p_tracker_autogen/mocs_compilation.cpp	142e00727ab3526f

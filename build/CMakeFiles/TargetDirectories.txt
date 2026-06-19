@@ -1,0 +1,8 @@
+/home/amal/P2Pgui/build/CMakeFiles/p2p_tracker.dir
+/home/amal/P2Pgui/build/CMakeFiles/p2p_client.dir
+/home/amal/P2Pgui/build/CMakeFiles/edit_cache.dir
+/home/amal/P2Pgui/build/CMakeFiles/rebuild_cache.dir
+/home/amal/P2Pgui/build/CMakeFiles/p2p_tracker_autogen_timestamp_deps.dir
+/home/amal/P2Pgui/build/CMakeFiles/p2p_tracker_autogen.dir
+/home/amal/P2Pgui/build/CMakeFiles/p2p_client_autogen_timestamp_deps.dir
+/home/amal/P2Pgui/build/CMakeFiles/p2p_client_autogen.dir
