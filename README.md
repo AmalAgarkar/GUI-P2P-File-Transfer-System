@@ -21,18 +21,18 @@ Built on top of the original [P2P-File-Transfer-System](https://github.com/AmalA
 ## Architecture
 
 ```
-┌─────────────────┐         TCP (control)         ┌─────────────────┐
-│  Tracker GUI     │◄─────────────────────────────►│  Client GUI A   │
-│  (TrackerBackend)│         port 9000              │  (MainWindow)   │
-└─────────────────┘                                 └────────┬────────┘
-                                                              │
-                                                    PeerServer listens
-                                                    on port 10000
-                                                              │
-┌─────────────────┐         TCP (control)                   │
-│  Client GUI B    │◄────────────────────────────────────────┘
-│  (MainWindow)    │         direct P2P file transfer
-└─────────────────┘         (TransferManager ↔ PeerServer)
+┌──────────────────┐         TCP (control)            ┌─────────────────┐
+│  Tracker GUI     │◄─────────────────────────────►   │  Client GUI A   │
+│  (TrackerBackend)│         port 9000                │  (MainWindow)   │
+└──────────────────┘                                  └────────┬────────┘
+                                                               │
+                                                     PeerServer listens
+                                                      on port 10000
+                                                               │
+ ┌──────────────────┐         TCP (control)                    │
+ │  Client GUI B    │◄─────────────────────────────────────────┘
+ │  (MainWindow)    │         direct P2P file transfer
+ └──────────────────┘         (TransferManager ↔ PeerServer)
 ```
 
 - **Tracker** never touches file bytes — it only stores filename, size, SHA-256 hash, and `peer_ip:peer_port` for each shared file.
